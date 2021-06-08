@@ -1,0 +1,7 @@
+{
+  "network": "kovan",
+  "erc721": "0xe8452CeE4bfa69F858E0F99c8401F3AD9365AE61",
+  "erc1155": "0x715dEd8EAc07190AB5f9C4795A58eCAe13b26f0a",
+  "txHash": "0x2588ec0c90b32641479be21314ecd5ee5bb1104b9206aede17f8a4ce9adf972c",
+  "blockNumber": "25342034"
+}
