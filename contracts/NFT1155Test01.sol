@@ -14,10 +14,10 @@ contract NFTC1155Test01 is ERC1155 {
     constructor()
         ERC1155("https://abcoathup.github.io/SampleERC1155/api/token/{id}.json")
     {
-        _mint(msg.sender, GOLD, 10**18, "");
-        _mint(msg.sender, SILVER, 10**27, "");
-        _mint(msg.sender, THORS_HAMMER, 1, "");
-        _mint(msg.sender, SWORD, 10**9, "");
-        _mint(msg.sender, SHIELD, 10**9, "");
+        _mint(msg.sender, GOLD, 10, "");
+        _mint(msg.sender, SILVER, 20, "");
+        _mint(msg.sender, THORS_HAMMER, 30, "");
+        _mint(msg.sender, SWORD, 40, "");
+        _mint(msg.sender, SHIELD, 60, "");
     }
 }
