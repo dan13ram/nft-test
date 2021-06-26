@@ -1,7 +1,7 @@
 {
   "network": "rinkeby",
-  "erc721": "0xC6ea87B40DAc70CE26404A7d69004f8bc35814Fd",
-  "erc1155": "0xbF43ef126811D9A8d3D0e43F0Bdd69a0A0355b9F",
-  "txHash": "0x9ea74b01a2b01b21cda0b968742503a637583aa904c709e4e361ddefb7c7cb5e",
-  "blockNumber": "8780609"
+  "erc721": "0xf578B19d132D38EE3EF3EC0527C301fD30c982d9",
+  "erc1155": "0xec6043dCB4B08DfA2c7D0dff2e29882aCcb39A41",
+  "txHash": "0xb191a5da67c9d7b9f03d342e24c410f6ef62a93b72cb5277001aa53a8d4c5956",
+  "blockNumber": "8831239"
 }

@@ -12,7 +12,7 @@ contract NFTC1155Test01 is ERC1155 {
     uint256 public constant SHIELD = 4;
 
     constructor()
-        ERC1155("https://abcoathup.github.io/SampleERC1155/api/token/{id}.json")
+        ERC1155("https://raw.githubusercontent.com/abcoathup/SampleERC1155/master/api/token/{id}.json")
     {
         _mint(msg.sender, GOLD, 10, "");
         _mint(msg.sender, SILVER, 20, "");

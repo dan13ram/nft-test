@@ -14,7 +14,7 @@ contract NFTC721Test01 is ERC721, Ownable {
 
     string baseURI;
 
-    constructor () ERC721("Simple ERC721 Token", "SIM") {
+    constructor () ERC721("Test ERC721 Token 00", "TEST00") {
         mint(msg.sender);
         mint(msg.sender);
         mint(msg.sender);
